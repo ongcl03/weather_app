@@ -8,6 +8,12 @@ Welcome to WeatherApp - a simple and elegant weather forecasting application bui
 - **Forecasts**: View weather forecasts to see how the weather changes throughout the day.
 - **Elegant UI**: Enjoy a clean and intuitive user interface that makes weather checking a pleasant experience.
 
+## Screenshots 📸
+
+Take a look at what WeatherApp looks like and how it functions:
+
+<img src="https://raw.githubusercontent.com/ongcl03/weather_app/main/weather-app-screenshot.png" alt="WeatherApp Screenshot" width="300"/>
+
 ## Getting Started 🚀
 
 To get a local copy up and running, follow these simple steps.
@@ -47,12 +53,6 @@ Simply launch the app on your device, and it will automatically fetch the weathe
 To install WeatherApp on your device, download the APK from the releases section and install it on your Android device.
 
 - [Download the latest release APK](https://github.com/ongcl03/weather_app/releases/download/v1.0/weather_app.apk)
-
-## Screenshots 📸
-
-Take a look at what WeatherApp looks like and how it functions:
-
-<img src="https://raw.githubusercontent.com/ongcl03/weather_app/main/weather-app-screenshot.png" alt="WeatherApp Screenshot" width="300"/>
 
 ## Contributing 🤝
 
